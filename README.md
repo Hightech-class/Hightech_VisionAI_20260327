@@ -11,3 +11,6 @@
   ** L 단계로 양자화(quantization)
 ![image](https://github.com/user-attachments/assets/15d6f4f1-1a2e-462c-a1e8-4eb98153eb0a)
  
+* 영상 좌표계
+ ** 왼쪽 위 구석이 원점 , (y,x)표기
+ ![image](https://github.com/user-attachments/assets/95ae508b-e27c-4006-a1bd-f45844594e12)
