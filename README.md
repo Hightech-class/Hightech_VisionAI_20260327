@@ -17,3 +17,5 @@
 
 * OpenCV는 numpy.ndarray로 영상을 표현함
  ** numpy.ndarray가 지원하는 다양한 함수를 사용할 수 있음 (min, max, argmin, argmax, mean, sort, reshape, transpose,.....)
+
+* RGB 채널별로 디스플레이
