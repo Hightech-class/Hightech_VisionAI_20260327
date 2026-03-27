@@ -14,3 +14,6 @@
 * 영상 좌표계
  ** 왼쪽 위 구석이 원점 , (y,x)표기
  ![image](https://github.com/user-attachments/assets/95ae508b-e27c-4006-a1bd-f45844594e12)
+
+* OpenCV는 numpy.ndarray로 영상을 표현함
+ ** numpy.ndarray가 지원하는 다양한 함수를 사용할 수 있음
