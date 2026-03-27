@@ -19,3 +19,6 @@
  ** numpy.ndarray가 지원하는 다양한 함수를 사용할 수 있음 (min, max, argmin, argmax, mean, sort, reshape, transpose,.....)
 
 * RGB 채널별로 디스플레이
+ ** numpy의 슬라이싱 기능을 이용하여 RGB 채널별로 디스플레이함
+  ![image](https://github.com/user-attachments/assets/ccc2645d-2d72-4e5e-86d6-981c79b175ba)
+
